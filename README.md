@@ -5,10 +5,11 @@ This Discord bot is a versatile bot featuring advanced moderation commands, auto
 
 ## Features
 
-- **Advanced Moderation Commands**: Kick, Ban.
-- **Automated Role Assignment**: Command for assigning roles to members.
-- **Automatic Responses**: Automatically responds to specific keywords.
-- **Points System**: Basic points system for members.
+- **New Member Welcome**: Automatically welcomes new members to the server.
+- **Advanced Moderation Commands**: Kick, Ban, and Delete messages.
+- **Automated Role Assignment**:  Assign roles to users through commands.
+- **Automatic Responses**: The bot responds automatically to specified keywords.
+- **Points System**: A simple points system where members can earn points for participation, view their points, and add points to others.
 
 ## Installation
 
